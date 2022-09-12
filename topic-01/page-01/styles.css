@@ -1,0 +1,7 @@
+@import "/shared/css/guide.css";
+@import "/shared/css/shared.css";
+@import "@bamblehorse/tiny/index";
+
+.style {
+  background-color: red;
+}

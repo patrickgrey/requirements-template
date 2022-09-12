@@ -1,0 +1,14 @@
+{
+  "name": "requirements-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bamblehorse/tiny": "^2.0.0"
+  }
+}
